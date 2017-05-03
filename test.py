@@ -1,2 +1,2 @@
 
-print 'should cause merge conflict'
+print 'should cause merge conflict!!'
